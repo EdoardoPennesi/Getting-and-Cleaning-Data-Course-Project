@@ -2,6 +2,4 @@ This repository includes the following files:
 
 * run_analysis.R: the R code used to tidy the data
 * Getting and Cleaning Data Course Project.txt: the putput obtained running the R code mentioned above
-* <mark> CodeBook.md: a description of the steps taken to perform the analysis
-    
-    
+* CodeBook.md: a description of the steps taken to perform the analysis
